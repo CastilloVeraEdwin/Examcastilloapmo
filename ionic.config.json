@@ -1,0 +1,7 @@
+{
+  "name": "Castilloexam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
